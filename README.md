@@ -2,11 +2,7 @@
 
 A simple and responsive **Basic Calculator** built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations with a clean and user-friendly interface.
 
-## 🚀 Live Demo
 
-https://your-live-demo-link.com
-
-> *(Replace this with your GitHub Pages or live website link.)*
 
 ---
 
